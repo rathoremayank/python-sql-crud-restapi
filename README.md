@@ -1,2 +1,2 @@
-# python-sql-crud-restapi
+# Python MySQL Crud Rest API
 Sample Python Rest API with CRUD Operations using MySQL Database
